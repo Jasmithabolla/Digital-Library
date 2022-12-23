@@ -22,7 +22,7 @@ int main()
         char choice;
         system ("CLS");
         printf("****************************************************\n");
-        printf("\n		||IITG Library||	\n\n");
+        printf("\n		||Mahindra University Library||	\n\n");
         printf("****************************************************\n");
         printf("Please choose the desired service number:\n");
         printf("1.Add book information\n");
